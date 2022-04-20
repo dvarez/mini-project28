@@ -1,0 +1,23 @@
+{
+  "name": "mini-project28",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvarez/mini-project28.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvarez/mini-project28/issues"
+  },
+  "homepage": "https://github.com/dvarez/mini-project28#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
